@@ -1,0 +1,22 @@
+{
+  "name": "static-server",
+  "description": "node-static-server",
+  "main": "app.js",
+  "authors": [
+    "time2funk"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/time2funk/node-static-server",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "components-font-awesome": "^5.0.6",
+    "jquery": "^3.3.1"
+  }
+}
